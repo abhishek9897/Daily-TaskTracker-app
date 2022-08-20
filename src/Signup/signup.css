@@ -1,0 +1,22 @@
+.Signup{
+    display: flex;
+    height: 100vh;
+    
+    align-items: center;
+    justify-content: center;
+    
+}
+.signup-form{
+width: 30%;
+}
+.labels{
+    color:  rgb(136, 170, 59);
+}
+
+.Heading{
+    color:  rgb(30, 3, 46) !important ;
+    width: 50%;
+    margin: auto;
+    /* color: rgb(15, 15, 15) !important; */
+    font-size: 30px!important;
+}

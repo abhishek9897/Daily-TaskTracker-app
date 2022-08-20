@@ -1,0 +1,35 @@
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: rgb(46, 27, 35);
+}
+
+.labels{
+    color:  rgb(136, 170, 59);
+}
+
+.login_form{
+    width: 30%;
+    }
+.btn1{
+   
+    padding: 2px 2px 2px 2px;
+    margin: 10px auto 10px auto;
+   
+}
+.Heading{
+    width: 50%;
+    margin: auto;
+    color: rgb(46, 16, 16);
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+.header{
+    display: flex;
+    flex-direction: row-reverse;
+
+    margin-top: 30px;
+    margin-right: 20px;
+}
